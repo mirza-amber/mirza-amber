@@ -1,6 +1,5 @@
-                                                                                    ![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/mirza-amber/mirza-amber/assets/127652335/52b9701e-0d7e-4b24-ab7c-bc767249ca79)
 
--👋 Hi, I’m Amber Mirza
+-👋 Hi, I’m Amber Mirza                                                        ![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/mirza-amber/mirza-amber/assets/127652335/52b9701e-0d7e-4b24-ab7c-bc767249ca79)
 
 -👀 I’m interested in Coding, Football, Chess and MMA
 
