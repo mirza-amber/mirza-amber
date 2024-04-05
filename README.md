@@ -13,5 +13,5 @@
 </span>
 
 <span style='float:right'>
-<img src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif'>
+<img src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif' width='100'>
 </span>
