@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amber</h1>
 <h3 align="center">Data Analyst from India</h3>
-<img align='right' width='300' src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif'>
+<img align='right' width='400' src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif'>
 
 <p align="left"> <a style="border-radius: 25px;" href="https://twitter.com/chaacha_ji" target="blank"><img src="https://img.shields.io/twitter/follow/chaacha_ji?logo=twitter&style=for-the-badge" alt="chaacha_ji" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, JS, AI**
 
-- 📫 How to reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
+- 📫 Reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
 
 - ⚡ Fun fact - **Thanos was never the villian**
 
