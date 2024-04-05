@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
 
-- ⚡ Fun fact **Thanos was never the villian**
+- ⚡ Fun fact - **Thanos was never the villian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
