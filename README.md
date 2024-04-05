@@ -8,4 +8,4 @@
 
 <h2>⏳ I’m looking to collaborate on Data Analysis and Front End Projects.</h2>
 
-<h2>-- How to reach me https://www.linkedin.com/in/amber-mirza-175150170/</h2>            
+<h2>🤝 How to reach me https://www.linkedin.com/in/amber-mirza-175150170/</h2>            
