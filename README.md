@@ -2,7 +2,7 @@
 <h3 align="center">Data Geek from India</h3>
 <img align='right' width='400' src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif'>
 
-<p align="left"> <a style="border-radius: 25px;" href="https://twitter.com/chaacha_ji" target="blank"><img src="https://img.shields.io/twitter/follow/chaacha_ji?logo=twitter&style=for-the-badge" alt="chaacha_ji" /></a> </p>
+<p align="left"> <a style="border-radius: 25px;" href="https://twitter.com/chaacha_ji" target="blank"><img style="border-radius: 25px;" src="https://img.shields.io/twitter/follow/chaacha_ji?logo=twitter&style=for-the-badge" alt="chaacha_ji" /></a> </p>
 
 - 🔭 I’m currently working on **Pea Shooter (Pygame)**
 
