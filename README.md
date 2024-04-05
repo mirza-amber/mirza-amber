@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Scraping**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, JS, Trend Forecast, AI**
 
 - 📫 How to reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
 
