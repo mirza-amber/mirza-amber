@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Amber Mirza</h1>                                                    
+<h1>Amber Mirza</h1>                                                    
 
 <h2>🔥 Coding, Football, Chess and MMA </h2>
 
