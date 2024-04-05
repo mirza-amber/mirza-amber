@@ -4,7 +4,7 @@
 
 <h2>-- Proficient in PYTHON, HTML, CSS, JS, SQL(SQL-Server), Tableau, Power-BI</h2>         
 
-<h2>-- I’m currently learning about Python.</h2>
+<h2>-- Currently learning about Web Scraping.</h2>
 
 <h2>-- I’m looking to collaborate on Data Analysis and Front End Projects.</h2>
 
