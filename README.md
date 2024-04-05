@@ -1,4 +1,5 @@
 <h1>Amber Mirza</h1>                                                    
+<img style='align:right;' src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif' width='300'>
 
 <p style='align:left;'>🔥 Coding, Football, Chess and MMA
 
@@ -11,4 +12,3 @@
 🤝 Reach me at https://www.linkedin.com/1in/amber-mirza-175150170/
 </p>
 
-<img style='align:right;' src='https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif' width='300'>
