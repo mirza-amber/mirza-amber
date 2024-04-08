@@ -10,7 +10,7 @@
 
 - 📫 Reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
 
-- ⚡ Fun fact - **Thanos was never the villian**
+- ⚡ Fun fact - **Python code is never really converted to Binary, how does Python code work then?**
 
 <br>
 
