@@ -8,9 +8,7 @@
 
 - 💬 Ask me about **Python, JS, AI**
 
-- 📫 Reach me **https://www.linkedin.com/1in/amber-mirza-175150170/**
-
-- ⚡ Fun fact - **Python code is never really converted to Machine Code, how does the machine understand it then?**
+- 📫 Reach me **https://www.linkedin.com/in/amber-mirza-175150170/**
 
 <br>
 
