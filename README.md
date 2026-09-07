@@ -2,11 +2,11 @@
 <h3 align="center">Data Geek</h3>
 <img align='right' width='300' src='https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif'>
 
-- 🔭 I’m currently working on improving my **React** skills
+- 🔭 currently working on improving my **Backend** skills
 
-- 🌱 I’m currently learning **Web Scraping**
+- 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Python, JS, AI**
+- 💬 Ask me about **C++, JS, Football**
 
 - 📫 Reach me **https://www.linkedin.com/in/amber-mirza-175150170/**
 
